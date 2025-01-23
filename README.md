@@ -3,7 +3,8 @@
 **TheraPlay** is an interactive web application that connects users facing similar challenges, enabling anonymous chat and collaborative doodling to foster support without fear of judgment.
 
 ---
-
+## Demo Video
+https://github.com/user-attachments/assets/a2af54f5-309c-4480-9bf7-7a2bcd665dca
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -137,6 +138,6 @@ Follow the instructions provided within the app to test all features.
 
 #### Github : https://github.com/Surya-Uday-Singh
 
-## Demo Video
 
-https://github.com/user-attachments/assets/a2af54f5-309c-4480-9bf7-7a2bcd665dca
+
+
